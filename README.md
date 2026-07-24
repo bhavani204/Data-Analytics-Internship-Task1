@@ -20,13 +20,17 @@ The dataset contains sales transaction records with the following columns:
 
 | Column Name   | Description                      |
 | ------------- | -------------------------------- |
-| Order ID      | Unique identifier for each order |
-| Customer Name | Name of the customer             |
+| Order ID     | Unique identifier for each order |
+| Customer ID   | Unique Identity of the customer    |
+|Customer Name|  |Name of the customer|
 | Product       | Product purchased                |
-| Sales         | Revenue generated from the order |
-| Profit        | Profit earned from the order     |
-| Order Date    | Date of purchase                 |
-
+| Total_Sales   | Revenue generated from total sales |
+|Category       |  Types of products   |
+| Order Date    | Date of purchase     |
+|Age            |Age of person |
+|Gender|        |Gender of person|
+|City|          |City Sales|
+|Unit Price|    |Price of single Product|
 ## Data Quality Assessment
 
 The following issues were identified:
